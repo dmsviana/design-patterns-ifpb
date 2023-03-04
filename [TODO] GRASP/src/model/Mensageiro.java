@@ -16,8 +16,8 @@ public class Mensageiro {
 		String mensagem = "Valor: " + venda.getTotal();
 
 		// TODO Coloque seu e-mail@academico.ifpb.edu.br e senha aqui para testar
-		String email = "marcelo.diogo@academico.ifpb.edu.br";
-		String senha = "@Vidaloka00";
+		String email = "seumelhoremail";
+		String senha = "********";
 
 		Properties props = new Properties();
 		props.put("mail.smtp.host", "smtp.gmail.com");
